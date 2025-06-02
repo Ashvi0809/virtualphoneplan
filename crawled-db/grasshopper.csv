@@ -1,0 +1,4 @@
+﻿CompanyName,PlanName,Price,BillingCycle,MaxUsers,Features
+"Grasshopper","True Solo",14,"monthly",1,"24/7 Support; Business Texting; Mobile + Desktop Apps; Call Forwarding; VoIP + WiFi Calling; Virtual Fax"
+"Grasshopper","Solo Plus",25,"monthly",1000,"24/7 Support; Business Texting; Mobile + Desktop Apps; Call Forwarding; VoIP + WiFi Calling; Virtual Fax; Call Recording"
+"Grasshopper","Small Business",55,"monthly",1000,"24/7 Support; Business Texting; Mobile + Desktop Apps; Call Forwarding; VoIP + WiFi Calling; Virtual Fax; Call Recording; Simultaneous Call Handling; Call Transfers"

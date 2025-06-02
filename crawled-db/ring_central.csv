@@ -1,0 +1,10 @@
+﻿CompanyName,PlanName,Price,BillingCycle,MaxUsers,Features
+"RingCentral","Core",20,"monthly",100,"Unlimited domestic calling; Business SMS and MMS; HD video meetings; Google, Microsoft integrations"
+"RingCentral","Video pro+",10,"monthly",200,"Single sign-on; Advanced analytics; End-to-end encryption (E2EE); CRM and business app integrations"
+"RingCentral","Webinar",30,"monthly",500,"Simple meetings-like experience; AI-powered setup and execution; Effortless guided setup; Private backstage for prep and debrief"
+"RingCentral","Events",1490,"Yearly",100000,"Web browser based experience; Caption translation (AI); Live chat support; 15+ languages supported"
+"RingCentral","Advanced",25,"monthly",100,"Auto call recording; Unlimited internet fax; Advanced call monitoring and handling; Connect multiple sites"
+"RingCentral","Ultra",35,"monthly",200,"Device Status and alert; Unlimited Storage; HD video meetings; customizable analytics and reporting"
+"RingCentral","RingCX",65,"monthly",500,"Voice and 20+ digital and social channels; Queue callback; Call recordings; Screen recording"
+"RingCentral","RingCentral Contact Center Enterprise",65,"monthly",5,"Voice and 20+ digital and social channels; Queue callback; Call recordings; Screen recording"
+"RingCentral","Video Pro",0,"monthly",100,"Collaborative notes; Unlimited 50 minute video meetings for up to 100 participants; Included in plan Whiteboard; AI-powered meeting insights and transcriptions; Call recordings; Screen recording"
